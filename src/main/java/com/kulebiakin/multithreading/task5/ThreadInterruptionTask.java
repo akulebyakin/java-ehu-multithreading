@@ -1,4 +1,4 @@
-package task5;
+package com.kulebiakin.multithreading.task5;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

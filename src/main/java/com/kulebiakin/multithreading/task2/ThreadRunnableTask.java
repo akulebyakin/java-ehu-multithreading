@@ -1,4 +1,4 @@
-package task2;
+package com.kulebiakin.multithreading.task2;
 
 public class ThreadRunnableTask {
 

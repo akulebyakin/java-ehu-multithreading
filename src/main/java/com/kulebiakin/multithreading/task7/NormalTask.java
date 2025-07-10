@@ -1,4 +1,4 @@
-package task7;
+package com.kulebiakin.multithreading.task7;
 
 public class NormalTask implements Runnable {
 

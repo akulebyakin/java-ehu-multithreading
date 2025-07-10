@@ -1,4 +1,4 @@
-package task6;
+package com.kulebiakin.multithreading.task6;
 
 public class ThreadPriorityTask {
 

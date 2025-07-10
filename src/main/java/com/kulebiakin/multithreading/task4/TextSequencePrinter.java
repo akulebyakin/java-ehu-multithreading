@@ -1,4 +1,4 @@
-package task4;
+package com.kulebiakin.multithreading.task4;
 
 public class TextSequencePrinter implements Runnable {
 
